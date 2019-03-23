@@ -1,0 +1,16 @@
+Common 共同普遍 common
+exactly 恰恰究竟 exactly
+opposite 相反对立 opposite
+execute 运行 execute
+micro 微 micro
+main 主 main
+failure 失败 failure
+initial 初始 initial
+initialization 初始化 initialization
+exercise 练习 exercise
+scroll 滚动 scroll
+back 背部后面 back
+space 空格 space
+pause 暂停 pause
+road 路 road
+bare 空裸 bare
