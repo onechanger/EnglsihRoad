@@ -1,4 +1,5 @@
 Common 共同普遍 common
+comfortable 舒服 comfortable
 exactly 恰恰究竟 exactly
 opposite 相反对立 opposite
 execute 运行 execute
@@ -14,3 +15,16 @@ space 空格 space
 pause 暂停 pause
 road 路 road
 bare 空裸 bare
+repository 知识库 repository
+fulfill 满足 fulfill
+assign 赋值 assign
+source 资源 source
+reference 参照 reference
+member 成员 member
+duplicate 重复 duplicate
+python 蟒蛇 python
+option 选项 option
+necessary 必要 necessary
+prefix 词头字首 prefix
+Pixel 像素 Pixel
+extract 提取 extract

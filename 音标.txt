@@ -1,0 +1,367 @@
+﻿（ai 奥 ）  abort 中断、中止 abort 
+
+（Ak ）  accept 接受 accept  
+
+（I ）  address 地址 address  
+
+（e ）  align 排列 align  
+
+（I）  animation 动画 animation  
+
+（I）  application 应用 application 
+
+（I ）  area 区域 area 
+
+（e ）  Array 数组 Array  
+
+（A ）  async 异步 async  
+
+（A ）  asynchronously 异步 asynchronously 
+
+（I ）  attributes 属性 attributes 
+
+（bai ）  background 背景 background  
+
+（bei ）  base 基础 base 
+
+（bu ）  blockquote 标记长的引用 blockquote 
+
+（bu ）  blur 使模糊 blur 
+
+（ba ）  body 身体 body 
+
+（bao ）  bold 黑体的、更粗的 bold 
+
+（bo ）  Boolean 布尔型 Boolean
+
+（bao ）  border 边框 border 
+
+（ba ）  Bottom 底部 Bottom 
+
+（ba ）  button 按钮 button
+
+（kan）  canvas 帆布 canvas
+
+（K ）  case 例子 case 
+
+（kai ）  catch 捕捉 catch
+
+（che ）  charset 字符集 charset
+
+（qiu ）  children 孩子 children
+
+（ ka）  classname 类名 classname
+
+（ke ）  clear 清除 clear
+
+（ ke）  clickable 可点击 clickable
+
+（ke ）  client 委托人 client
+
+（kao ）  Collapse 合并、关闭 Collapse
+
+（kao ）  color 颜色 color
+
+（kao ）  column 行 column
+
+（kang ）  comment 评论、意见 comment
+
+（kang ）  concat 连接 concat
+
+（kang ）  console 控制台 console
+
+（kang ）  container 容器 container
+
+（kang ）  content 内容 content
+
+（kang ）  continue 继续 continue
+
+（ke ）  cookie 本地存储 cookie
+
+（ke ）  coordinate 坐标 coordinate
+
+（kang ）  count 记数、数 count
+
+（ke ）  cursor 光标 cursor
+
+（dai ）  data 数据 data
+
+（dA）  Date 日期 Date
+
+（dai ）  Decoration 装饰、修饰 Decoration
+
+（dA ）  default 系统默认值 default
+
+（dai ）  delete 删除 delete
+
+（di ）  detail 详述 detail
+
+（di ）  direction 方向 direction
+
+（dang ）  DOCTYPE 文档类型 DOCTYPE
+
+（dang ）  download 下载 download
+
+（ zhua ）  draggable 可拖动的 draggable
+
+（zhua ）  drop-down 下拉列表 drop
+
+（i ）  element 元素 element
+
+（in ）  enable 使能够 enable
+
+（A ）  error 错误 error
+
+（A ）  event 事件 event
+
+（A ）  external 外部 external
+
+（fan ）  fetch 取 fetch
+
+（ fei）  filter 过滤器 filter
+
+（fo ）  flex 弹性 flex
+
+（fu ）  float 浮点 float
+
+（fu ）  flow 流动 flow
+
+（fo ）  focus 焦点 focus
+
+（fang ）  font 字体 font
+
+（fu ）  footer 页脚 footer
+
+（fo ）  form 表单 form
+
+（fei ）  frame 框 frame
+
+（G ）  geolocation 地理定位 geolocation
+
+（ge ）  Global 全球的 Global
+
+（ge ）  graphics 图形、图表算法 graphics
+
+（ge ）  grow 生长、发育 grow
+
+（hen ）  head 头 head
+
+（hai ）  height 高度 height
+
+（hei ）  hidden 隐藏 hidden
+
+（hai ）  highlight 强调 highlight
+
+（hei ）  history 历史 history
+
+（hai ）  href 连接 href
+
+（hai ）  hyperlink 超链接 hyperlink
+
+（I ）  icon 图标 icon
+
+（in ）  image 图片 image
+
+（I ）  important 重要的 important
+
+（in ）  Indent 缩进 Indent
+
+（in ）  index 指标、指数 index
+
+（in ）  input 输入 input
+
+（in ）  instance 例子 instance
+
+（in ）  invalid 无效的 invalid
+
+（jie ）  JavaScript Java Script语言 JavaScript
+
+（jiao ）  join 连接、结合 join
+
+（jie ）  JSON json符号对象 JSON
+
+（jie ）  justify 排列整齐 justify
+
+（lA ）  label 标签 label
+
+（lan ）  language 语言 language
+
+（lu ）  loop 重复 loop
+
+（le ）  lowercase 小写字母 lowercase
+
+（mai ）  machine 机器装置 machine
+
+（ma ）  margin 外边框 margin
+
+（ma ）  mark 标记 mark
+
+（mai ）  Math 计算算数 Math
+
+（mai ）  max 最大 max
+
+（mai ）  measurement 测量 measurement
+
+（mai ）  method 方法 method
+
+（ma ）  multiline 多线 multiline
+
+（ma ）  multiple 倍数 multiple
+
+（mu ）  mute 静音 mute
+
+（na ）  navigation 导航栏 navigation
+
+（no ）  null 空 null
+
+（nan ）  Number 数字 Number
+
+（o ）  opacity 透明值 opacity
+
+（a ）  Operators 操作者 Operators
+
+（o ）  order 命令 order
+
+（o ）  Orientation 方向 Orientation
+
+（o）  Origin 起源 Origin
+
+（a ）  outline 轮廓 outline
+
+（o ）  overflow 溢出 overflow
+
+（o ）  Overrides 复写，重写 Overrides
+
+（pai ）  padding 内边距 padding
+
+（po ）  parameter 参数 parameter
+
+（pei ）  paste 黏贴 paste
+
+（pai ）  pattern 模式 pattern
+
+（pa ）  pause 暂停 pause
+
+（po ）  perspective 立体效果 perspective
+
+（pu ）  placeholder 占位符 placeholder
+
+（po ）  position 位置 position
+
+（po ）  preferences 参数选择 preferences
+
+（pai ）  private 私有的 private
+
+（po ）  promise 承诺、保证 promise
+
+（pao ）  protocol 草案 protocol
+
+（rui ）  readonly 只读的 readonly
+
+（ruai）  RegExp 正则表达式 RegExp
+
+（ruai ）  relative 相对定位 relative
+
+（rui ）  remove 移动 remove
+
+（rui ）  repeat 重复 repeat
+
+（ruai ）  Represent 构成 Represent
+
+（rui ）  resize 调整大小 resize
+
+（rui ）  resources 资源 resources
+
+（ruai ）  resume 简历 resume
+
+（rui ）  return 返回 return
+
+（sai ）  sample 样品 sample
+
+（sai ）  sandbox 沙盘 sandbox
+
+（sou ）  scope 范围 scope
+
+（S ）  screen 屏幕 screen
+
+（sei ）  search 搜索 search
+
+（sai ）  section 部分 section
+
+（sha ）  Shadow 阴影 Shadow
+
+（s.）  Shrink 收缩 Shrink
+
+（sai ）  size 大小 size
+
+（sang ）  sound 声音 sound
+
+（sao ）  source 来源 source
+
+（S ）  span 行内元素标签 span
+
+（sai ）  Specifies 指定 Specifies
+
+（ ..）  src 来源 src
+
+（sA ）  Statements 声明 Statements
+
+（sai ）  step 步骤 step
+
+（s. ）  Storage 仓库 Storage
+
+（s. ）  String 字符串 String
+
+（s. ）  strong 强调文本标签 strong
+
+（sai ）  style 样式 style
+
+（se ）  switch 分支 switch
+
+（tA ）  table 列表 table
+
+（tai ）  tag 标签 tag
+
+（te ）  target 目标 target
+
+（tai ）  template 模板 template
+
+（s ）  throw 抛 throw
+
+（tai ）  title 标题 title
+
+（chuan ）  Transfer 转移 Transfer
+
+（ chuan）  translate 翻译 translate
+
+（tai ）  type 类型 type
+
+（ang ）  undefined 不明确的 undefined
+
+（ang ）  unload 退出 unload
+
+（e ）  uppercase 大写字母 uppercase
+
+（wai ）  validate 生效 validate
+
+（wai ）  value 值 value
+
+（wai ）  variable 可变的 variable
+
+（ve）  versions 版本 versions
+
+（V）  Visibility 能见度 Visibility
+
+（V ）  visible 可见的 visible
+
+（V）  wait 等待 wait
+
+（wai）  Website 网站 Website
+
+（wai）  while 当..时候 while
+
+（wen ）  width 宽度 width
+
+(wai)  wrap 包装 wrap
+
+(wai) write 书写 write
